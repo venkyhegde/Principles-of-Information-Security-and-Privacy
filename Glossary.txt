@@ -1,0 +1,7 @@
+Rijndael was the original name of the Advanced Encryption Standard (AES). AES is based on a design principle known as a substitution–permutation network, and is fast in both software and hardware. The key size used for an AES cipher specifies the number of transformation rounds that convert the input, called the plaintext, into the final output, called the ciphertext. The number of rounds are as follows:
+
+10 rounds for 128-bit keys
+12 rounds for 192-bit keys
+14 rounds for 256-bit keys
+
+High speed and low RAM requirements were criteria of the AES selection process. As the chosen algorithm, AES performed well on a wide variety of hardware, from 8-bit smart cards to high-performance computers.
